@@ -4,6 +4,8 @@ Which review framework best evaluates AI agent skill files?
 
 We designed 5 review schemas for evaluating SKILL.md files, ran them against real-world skills using multiple LLMs, and collected the results. Now we want your judgment.
 
+This benchmark is feeding into [Skills Manager](https://github.com/razbakov/skills-manager), a management layer for AI agent skills.
+
 ## Prompts
 
 | Prompt | Dimensions | Scale | 
